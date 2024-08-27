@@ -1,0 +1,2 @@
+# desktop
+Linux desktop configuration
